@@ -2,3 +2,4 @@
 天天生鲜django项目
 开始新的django 项目
 update readme
+保存密码
